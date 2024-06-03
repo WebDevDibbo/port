@@ -1,0 +1,43 @@
+
+.logo{
+    width:10%;
+}
+body{
+    background-color:rgb(38, 38, 38)!important;
+}
+.hero-title{
+    font-size:55px;
+}
+header,.portfolio,.skills,.contact{
+    margin-bottom: 100px;
+}
+.uni-col{
+    color:#0093E9;
+}
+.uni-btn{
+    border:none;
+    background-color: gray;
+    color:white;
+}
+.form-box input{
+    padding:15px 30px;
+    
+}
+.contact-title{
+    margin-bottom: 60px;
+}
+.form-box{
+    box-shadow: 4px 4px 8px gray;
+    padding:100px;
+}
+.send-btn{
+    padding:15px 90px;
+    border:none;
+
+}
+.send-btn:hover{
+    background-color:#0093E9;
+    transition:0.5s;
+    color:white;
+}
+
